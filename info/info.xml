@@ -14,7 +14,7 @@
 		<name>Nikolas Engelhard</name>
 	</author>        <author>
 		<name>Juergen Sturm</name>
-		<url>http://www.informatik.uni-freiburg.de/~sturm</url>
+		<url>http://cvpr.in.tum.de/members/sturmju</url>
 	</author>        <author>
 		<name>Wolfram Burgard</name>
 		<url>http://www.informatik.uni-freiburg.de/~burgard</url>
@@ -57,7 +57,7 @@
 		<authorlist>Nikolas Engelhard and Felix Endres and Juergen Hess and Juergen Sturm and Wolfram Burgard</authorlist>
 			<publishedin>Proc. of the RGB-D Workshop on 3D Perception in Robotics at the European Robotics Forum, Vasteras, Sweden, 2011.</publishedin>
 				<year>2011</year>
-				<url>http://cvpr.in.tum.de/_media/spezial/bib/sturm11rss-rgbd.pdf</url>
+				<url>http://cvpr.in.tum.de/_media/spezial/bib/engelhard11euron.pdf</url>
 	</paper>
 
         <documentation>
